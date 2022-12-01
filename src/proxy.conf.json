@@ -1,0 +1,8 @@
+{
+    "/def/*": {
+        "target": "https://adamix.net/defensa_civil/",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
